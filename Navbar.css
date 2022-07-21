@@ -71,14 +71,13 @@
 }
 
 #mainDiv {
-    /* border: 1px solid red; */
+    
     width: 80%;
     margin: 25px auto;
 }
 
 #row1,
 #row2 {
-    /* border: 1px solid black; */
     display: flex;
     justify-content: space-between;
     align-items: center;

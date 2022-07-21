@@ -82,7 +82,7 @@
 }
 
 .same>h3 {
-    color: #dd0285;
+    color: #f2199b;
     font-size: 25px;
 
 }
@@ -102,8 +102,8 @@
 }
 
 .btn>button {
-    background-color: #dd0285;
-    border: 1px solid #dd0285;
+    background-color: #f2199b;
+    border: 1px solid #f2199b;
     padding: 10px 30px 10px 30px;
     color: white;
     font-size: 19px;
@@ -316,7 +316,6 @@ b{
 #UF {
     height: 73%;
     width: 90%;
-    /* border: 2px solid white; */
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(auto, 1fr);
@@ -495,32 +494,32 @@ figure>img {
     width: 75%;
 }
 
-.akash {
+.pushk {
     display: flex;
     gap: 150px;
     margin: auto;
     padding: 0px 10px 0px 10px;
-    /* justify-content: space-around; */
+   
 
 }
 
-.akash>h2 {
+.pushk>h2 {
     color: #666666;
     font-size: larger;
 }
 
-.akash2 {
+.pushk2 {
     display: flex;
     gap: 20px;
 }
 
-.akash2>img {
+.pushk2>img {
     width: 70%;
     margin-top: 20px;
     height: 40px;
 }
 
-.akash2>p {
+.pushk2>p {
     color: grey;
     font-size: 21px;
 
